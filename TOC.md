@@ -1,6 +1,6 @@
 # TOC for Express GET POST PUT DELETE
 
-## The objective is to receive URL with differnt http verbs and modify the backend DB procesisng the data sent with the request
+## The objective is to receive URL with different http verbs and modify the backend DB processing the data sent with the request
 
 - ### Step 0. Understand API endpoint URL
 [REST API Conventions](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
